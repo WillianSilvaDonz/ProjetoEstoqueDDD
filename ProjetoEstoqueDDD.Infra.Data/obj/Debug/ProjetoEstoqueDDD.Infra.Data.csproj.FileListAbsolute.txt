@@ -1,0 +1,13 @@
+C:\Users\Willian\source\repos\ProjetoEstoqueDDD\ProjetoEstoqueDDD.Infra.Data\bin\Debug\ProjetoEstoqueDDD.Infra.Data.dll.config
+C:\Users\Willian\source\repos\ProjetoEstoqueDDD\ProjetoEstoqueDDD.Infra.Data\bin\Debug\ProjetoEstoqueDDD.Infra.Data.dll
+C:\Users\Willian\source\repos\ProjetoEstoqueDDD\ProjetoEstoqueDDD.Infra.Data\bin\Debug\ProjetoEstoqueDDD.Infra.Data.pdb
+C:\Users\Willian\source\repos\ProjetoEstoqueDDD\ProjetoEstoqueDDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Willian\source\repos\ProjetoEstoqueDDD\ProjetoEstoqueDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Willian\source\repos\ProjetoEstoqueDDD\ProjetoEstoqueDDD.Infra.Data\bin\Debug\ProjetoEstoqueDDD.Domain.dll
+C:\Users\Willian\source\repos\ProjetoEstoqueDDD\ProjetoEstoqueDDD.Infra.Data\bin\Debug\ProjetoEstoqueDDD.Domain.pdb
+C:\Users\Willian\source\repos\ProjetoEstoqueDDD\ProjetoEstoqueDDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Willian\source\repos\ProjetoEstoqueDDD\ProjetoEstoqueDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Willian\source\repos\ProjetoEstoqueDDD\ProjetoEstoqueDDD.Infra.Data\obj\Debug\ProjetoEstoqueDDD.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\Willian\source\repos\ProjetoEstoqueDDD\ProjetoEstoqueDDD.Infra.Data\obj\Debug\ProjetoEstoqueDDD.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Willian\source\repos\ProjetoEstoqueDDD\ProjetoEstoqueDDD.Infra.Data\obj\Debug\ProjetoEstoqueDDD.Infra.Data.dll
+C:\Users\Willian\source\repos\ProjetoEstoqueDDD\ProjetoEstoqueDDD.Infra.Data\obj\Debug\ProjetoEstoqueDDD.Infra.Data.pdb

@@ -1,0 +1,41 @@
+﻿@model IEnumerable<ProjetoEstoqueDDD.MVC.ViewModels.ProdutoViewModel>
+
+@{
+    ViewBag.Title = "Controle de Estoque Para José";
+}
+<div class="alert alert-success hide" role="alert"></div>
+<div class="alert alert-danger hide" role="alert"></div>
+<div class="row m-t-30">
+    <div class="col-md-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">Controle de Produtos</div>
+            <div class="panel-body table-responsive">
+                <table class="table table-bordered">
+                    <thead>
+                        <th>Produto(s)</th>
+                        <th>Quantidade</th>
+                    </thead>
+                    <tbody class="columns">
+                        @foreach (var item in Model) {
+                            <tr class="rowlinha">
+                                <td>@item.Nome</td>
+                                <td>
+                                    <form class="form-inline">
+                                        <div class="form-group">
+                                            <div class="input-group">
+                                                <a href="#" class="input-group-addon btn atualizarestoque">-</a>
+                                                <input type="text" class="form-control atuprod" id="quantidade" value="@item.Quantidade" placeholder="Quantidade">
+                                                <input name="produtoid" class="produto" type="hidden" value="@item.ProdutoId">
+                                                <a href="#" class="btn input-group-addon atualizarestoque">+</a>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

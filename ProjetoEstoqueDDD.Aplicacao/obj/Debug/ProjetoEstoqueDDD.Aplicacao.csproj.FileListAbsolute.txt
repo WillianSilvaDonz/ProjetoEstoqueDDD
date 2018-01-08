@@ -1,0 +1,6 @@
+C:\Users\Willian\source\repos\ProjetoEstoqueDDD\ProjetoEstoqueDDD.Aplicacao\bin\Debug\ProjetoEstoqueDDD.Aplicacao.dll
+C:\Users\Willian\source\repos\ProjetoEstoqueDDD\ProjetoEstoqueDDD.Aplicacao\bin\Debug\ProjetoEstoqueDDD.Aplicacao.pdb
+C:\Users\Willian\source\repos\ProjetoEstoqueDDD\ProjetoEstoqueDDD.Aplicacao\obj\Debug\ProjetoEstoqueDDD.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Willian\source\repos\ProjetoEstoqueDDD\ProjetoEstoqueDDD.Aplicacao\obj\Debug\ProjetoEstoqueDDD.Aplicacao.dll
+C:\Users\Willian\source\repos\ProjetoEstoqueDDD\ProjetoEstoqueDDD.Aplicacao\obj\Debug\ProjetoEstoqueDDD.Aplicacao.pdb
+C:\Users\Willian\source\repos\ProjetoEstoqueDDD\ProjetoEstoqueDDD.Aplicacao\obj\Debug\ProjetoEstoqueDDD.Aplicacao.csprojResolveAssemblyReference.cache
